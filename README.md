@@ -42,7 +42,7 @@ You need a spotify developer account to use this application.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shellify.git
+   git clone https://github.com/sajitha-tj/shellify.git
    cd shellify
    ```
 
